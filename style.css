@@ -1,8 +1,11 @@
 body {
   background: #eee;
-  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+P {
+font-family: 'Indie Flower', cursive;
 }
 
+h1{font-size: 40px;}
 ul {
   list-style-type: none;
   margin: 0;
